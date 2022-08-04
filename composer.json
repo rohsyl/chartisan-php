@@ -1,5 +1,5 @@
 {
-    "name": "chartisan/php",
+    "name": "rohsyl/chartisan-php",
     "description": "Chartisan's PHP backend",
     "license": "MIT",
     "type": "library",
@@ -7,6 +7,10 @@
         {
             "name": "Èrik Campobadal Forés",
             "email": "soc@erik.cat"
+        },
+        {
+            "name": "Sylvain Roh",
+            "email": "syzin12@gmail.com"
         }
     ],
     "minimum-stability": "dev",
